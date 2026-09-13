@@ -1,0 +1,2 @@
+1|Python Programming|John Zelle|Tech|700.0|10
+2|Clean Code|Robert Martin|Tech|1000.0|20
