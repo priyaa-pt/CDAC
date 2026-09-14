@@ -1,0 +1,6 @@
+Enter directory: project
+Enter extension: txt
+Expected output:
+project/java.txt
+project/linux.txt
+project/data.txt
