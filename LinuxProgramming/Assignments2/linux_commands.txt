@@ -1,0 +1,13 @@
+This is a simple manual of my daily linux commands
+
+1. ls ---> ls lists all the files in the dir
+   Flags:
+     -l  ---> gives a listed format of hte files
+     -a  ---> list all the files(including the hidden ones)
+
+2. touch
+3. cat
+4. echo
+5. nano
+6. mv
+7. cp
